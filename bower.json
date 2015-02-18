@@ -1,0 +1,23 @@
+{
+  "name": "jquery-scanner-detection",
+  "version": "1.2.0",
+  "homepage": "https://github.com/leonciokof/jQuery-Scanner-Detection",
+  "authors": [
+    "Leonardo Gatica <lgaticastyle@gmail.com>"
+  ],
+  "description": "jquery-scanner-detection is a small plugin to detect when user use a scanner (barcode, QR Code...) instead of a keyboard, and call specific callbacks.",
+  "main": "jquery.scannerdetection.js",
+  "keywords": [
+    "jquery",
+    "barcode",
+    "scanner"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
