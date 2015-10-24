@@ -6,8 +6,8 @@ jQuery Scanner Detection is a small plugin to detect when user use a scanner (ba
 Install
 -------
 
-```
-bower install jquery-scanner-detection
+```bash
+bower install jQuery-Scanner-Detection
 ```
 
 How use it
